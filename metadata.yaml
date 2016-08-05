@@ -1,0 +1,33 @@
+_repo: The-Great-Conspiracy-Complete_7140
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7140/7140-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Logan, John Alexander
+    alias: Logan, Black Jack
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '2351'
+    url: http://www.gutenberg.org/2009/agents/2351
+    wikipedia: http://en.wikipedia.org/wiki/John_A._Logan
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- GITenberg
+title: The Great Conspiracy, Complete
+url: http://www.gutenberg.org/ebooks/7140
